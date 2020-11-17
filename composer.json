@@ -1,0 +1,5 @@
+{
+    "require": {
+        "luketowers/php-shopify-api": "dev-master"
+    }
+}
